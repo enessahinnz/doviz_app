@@ -7,7 +7,7 @@ class CryptoApi {
   static String baseURL = 'https://api.collectapi.com/economy/allCurrency';
 
   static const Map<String, String> headers = {
-    'authorization': 'apikey collectapiden alınan api buaraya yapıştırılıcak (apikey yazan kısmı silmeden apiyi yapıştırınız)',
+    'authorization': 'apikey collectapiden alınan api buaraya yapıştırılıcak (apikey yazan kısmı silmeden apiyi yapıştırınız arada boşluk kalacak şekilde)',
     'content-type': 'application/json'
 
   };
