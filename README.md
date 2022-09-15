@@ -2,6 +2,11 @@
 
 A new Flutter project.
 
+Flutter ile yapılmış Doviz uygulaması
+
+![Screenshot_3](https://user-images.githubusercontent.com/75272701/190469023-2a677f4f-8723-4c6b-b8f1-c6f2c0e68e70.png)
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
